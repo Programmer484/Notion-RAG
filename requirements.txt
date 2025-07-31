@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+whoosh
+mistune
+qdrant-client
+scikit-learn
+numpy 
